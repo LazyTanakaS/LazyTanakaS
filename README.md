@@ -70,7 +70,7 @@ Single-page trivia application with timer, score tracking, and category selectio
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LazyTanakaS&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LazyTanakaS&show_icons=true&theme=tokyonight)
 
 ---
 
