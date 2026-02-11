@@ -91,6 +91,7 @@ Single-page trivia application with timer, score tracking, and category selectio
 ## 📫 Contact
 
 - 📧 Email: **petrokomar16@gmail.com**
+- 💼 LinkedIn: **[Petro Komar](https://www.linkedin.com/in/petro-komar-8824b6266/)**
 - 📍 Location: **Prague, Czech Republic**
 - 🌐 Available for: **Full-time, Part-time, Internships**
 
