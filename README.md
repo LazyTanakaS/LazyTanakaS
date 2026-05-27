@@ -42,7 +42,7 @@ Prague, Czech Republic | Actively looking for first frontend position
 
 ## Featured Projects
 
-### [Court Interpreter Landing Page](https://github.com/LazyTanakaS/...) — Real Client Project
+### [Court Interpreter Landing Page] — Real Client Project
 
 Multilingual landing site for a certified court interpreter in Prague. No UI libraries — fully custom implementation.
 
