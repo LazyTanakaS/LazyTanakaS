@@ -87,6 +87,7 @@ Single-page trivia application with timer, score tracking, and category selectio
 | Repository | Description |
 |---|---|
 | [Next.js-](https://petr-komar.vercel.app) | Portfolio in Next.js 16 + React 19 + TypeScript + Tailwind 4 |
+| [bekasava-eu](https://github.com/LazyTanakaS/bekasava-eu) | Real client project — multilingual court interpreter website |
 | [React-TypeScript](https://github.com/LazyTanakaS/React-TypeScript) | 4 TypeScript projects including Expense Tracker |
 | [React-mini-projects](https://github.com/LazyTanakaS/React-mini-projects) | 5 React applications with API integration |
 | [JS-Mini-Projects](https://github.com/LazyTanakaS/JS-Mini-Projects) | 7 vanilla JS projects |
