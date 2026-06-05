@@ -42,13 +42,13 @@ Prague, Czech Republic | Actively looking for first frontend position
 
 ## Featured Projects
 
-### [Court Interpreter Landing Page] — Real Client Project
+### [Court Interpreter Website](https://github.com/LazyTanakaS/bekasava-eu) — Real Client Project
 
 Multilingual landing site for a certified court interpreter in Prague. No UI libraries — fully custom implementation.
 
 Highlights: 4-language i18n with typed dictionary (`Record<Lang, TranslationItem>`), custom hooks (`useInView` on IntersectionObserver, `useCounter` on rAF), full accessibility (aria-expanded, keyboard nav, focus-visible, reduced-motion), scrollspy navigation, custom SVG icons.
 
-**Tech:** React, TypeScript, Vite, CSS | [Live Demo](https://bekasava.eu/)
+**Tech:** React, TypeScript, Vite, CSS | [Live Demo](https://bekasava.eu/) | [GitHub](https://github.com/LazyTanakaS/bekasava-eu)
 
 ---
 
