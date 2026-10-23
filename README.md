@@ -25,6 +25,7 @@ Prague, Czech Republic | Actively looking for first frontend position
 
 ### Tools
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -42,6 +43,14 @@ Prague, Czech Republic | Actively looking for first frontend position
 
 ## Featured Projects
 
+### [React-TypeScript](https://github.com/LazyTanakaS/React-TypeScript) — Expense Tracker
+
+Personal finance app for tracking income, expenses, monthly statistics, and subscriptions, with localStorage persistence and a typed component architecture.
+
+**Tech:** React, TypeScript, Vite, Vitest, CSS | [Live Demo](https://lazytanakas.github.io/React-TypeScript/expenses-tracker/) | [GitHub](https://github.com/LazyTanakaS/React-TypeScript)
+
+---
+
 ### [Court Interpreter Website](https://github.com/LazyTanakaS/bekasava-eu) — Real Client Project
 
 Multilingual landing site for a certified court interpreter in Prague. No UI libraries — fully custom implementation.
@@ -52,27 +61,19 @@ Highlights: 4-language i18n with typed dictionary (`Record<Lang, TranslationItem
 
 ---
 
-### [Expense Tracker](https://github.com/LazyTanakaS/React-TypeScript/tree/main/expenses-tracker) — React + TypeScript
+### [Car Service Log](https://github.com/LazyTanakaS/car-service-log)
 
-Personal finance app with income/expense tracking, monthly statistics, subscription management, and localStorage persistence. Fully typed component architecture (~13 components, separate `types/` and `utils/`).
+Personal car maintenance log for recording, editing, filtering, and tracking service history by date and mileage. Data persists in localStorage.
 
-**Tech:** React, TypeScript, Vite, CSS
-
----
-
-### [Movie Search App](https://github.com/LazyTanakaS/React-mini-projects/tree/master/movie-search-app) — React
-
-Movie database with debounced search (500ms), genre/year/rating filters, favorites, and TMDb API integration. Refactored from a monolithic file into separate components (MovieCard, SearchBar, CategoryTabs, Filters, MovieModal).
-
-**Tech:** React, TMDb API, localStorage, Vite | [Live Demo](https://lazytanakas.github.io/React-mini-projects/movie-search-app/)
+**Tech:** React, TypeScript, Vite, CSS | [Live Demo](https://car-service-ivory.vercel.app/) | [GitHub](https://github.com/LazyTanakaS/car-service-log)
 
 ---
 
-### [Quiz App](https://github.com/LazyTanakaS/JS-Mini-Projects/tree/main/07-quiz-app) — Vanilla JavaScript
+### [ETF Landing Page](https://github.com/LazyTanakaS/etf-landing-cz)
 
-Single-page trivia application with timer, score tracking, and category selection. Built without frameworks to demonstrate core JS fundamentals.
+Conversion-focused landing page comparing US-listed ETFs for Czech retail investors.
 
-**Tech:** Vanilla JS, Open Trivia API | [Live Demo](https://lazytanakas.github.io/JS-Mini-Projects/07-quiz-app/)
+**Tech:** React, TypeScript, Vite, Vitest | [Live Demo](https://etf-landing-cz.vercel.app/) | [GitHub](https://github.com/LazyTanakaS/etf-landing-cz)
 
 ---
 
@@ -86,12 +87,10 @@ Single-page trivia application with timer, score tracking, and category selectio
 
 | Repository | Description |
 |---|---|
-| [Next.js-](https://petr-komar.vercel.app) | Portfolio in Next.js 16 + React 19 + TypeScript + Tailwind 4 |
+| [React-TypeScript](https://github.com/LazyTanakaS/React-TypeScript) | React + TypeScript projects: Expense Tracker, Weather App, Todo List |
 | [bekasava-eu](https://github.com/LazyTanakaS/bekasava-eu) | Real client project — multilingual court interpreter website |
-| [React-TypeScript](https://github.com/LazyTanakaS/React-TypeScript) | 4 TypeScript projects including Expense Tracker |
-| [React-mini-projects](https://github.com/LazyTanakaS/React-mini-projects) | 5 React applications with API integration |
-| [JS-Mini-Projects](https://github.com/LazyTanakaS/JS-Mini-Projects) | 7 vanilla JS projects |
-| [Frontend-Practice-CSS](https://github.com/LazyTanakaS/Frontend-Practice-CSS) | CSS layouts & animations |
+| [car-service-log](https://github.com/LazyTanakaS/car-service-log) | Personal car maintenance log with localStorage persistence |
+| [etf-landing-cz](https://github.com/LazyTanakaS/etf-landing-cz) | Landing page comparing US-listed ETFs for Czech investors |
 
 ---
 
