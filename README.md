@@ -68,7 +68,7 @@ Highlights: 4-language i18n with typed dictionary (`Record` keyed by a union of 
 
 Personal car maintenance log for recording, editing, and filtering service entries by car part, with service history tracked by date and mileage. Data persists in localStorage.
 
-**Tech:** React, TypeScript, Vite, CSS | [Live Demo](https://car-service-log-phi.vercel.app/) |[GitHub](https://github.com/LazyTanakaS/car-service-log)
+**Tech:** React, TypeScript, Vite, CSS | [Live Demo](https://car-service-log-phi.vercel.app/) | [GitHub](https://github.com/LazyTanakaS/car-service-log)
 
 ---
 
